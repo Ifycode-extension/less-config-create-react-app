@@ -1,5 +1,5 @@
 
-# Create React App starter files (with Less config)
+# Create React App + LESS config
 
 Create react app starter files, with LESS configured. See sections below for how to run and use the app.
 
