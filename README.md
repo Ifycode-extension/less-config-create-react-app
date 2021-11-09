@@ -1,3 +1,27 @@
+
+# Create React App starter files (with Less config)
+
+Create react app starter files, with LESS configured. See run the application and import generated css sections for more information.
+
+## Run the application
+
+Run any of the commands below to run the application at localhost:3000.
+
+````
+yarn run dev
+````
+
+or
+
+````
+npm run dev
+````
+
+## Import generated css
+
+The LESS code you write in the `less` folder is transpiled to CSS and sent into the `css` folder. Import the generated CSS files in your js files (not the LESS files).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,7 +30,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn start` (use `yarn run dev` instead - to use less preprocessor)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
