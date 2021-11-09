@@ -3,9 +3,23 @@
 
 Create react app starter files, with LESS configured. See run the application and import generated css sections for more information.
 
+## Install dependencies
+
+Install dependencies with the yarn command below if you are using yarn, or install dependencies with the npm command below if you are using npm.
+
+````
+yarn install
+````
+
+OR
+
+````
+npm install
+````
+
 ## Run the application
 
-Run any of the commands below to run the application at localhost:3000.
+Use the command yarn command below to run the application at localhost:3000 if you are using yarn, use the npm command if you are using npm.
 
 ````
 yarn run dev
@@ -21,6 +35,11 @@ npm run dev
 
 The LESS code you write in the `less` folder is transpiled to CSS and sent into the `css` folder. Import the generated CSS files in your js files (not the LESS files).
 
+## Create react app documentation
+
+Visit the create react app [documentation](https://create-react-app.dev/docs/getting-started/) for how to interact with create react app.
+
+<!--
 
 # Getting Started with Create React App
 
@@ -30,7 +49,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start` (use `yarn run dev` instead - to use less preprocessor)
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -92,3 +111,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+-->
